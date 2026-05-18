@@ -12,12 +12,19 @@
 
 ---
 
-## 🎥 Gameplay Demo
+## 🎮 Play Game
 
-<div align="center">
-  <video src="Video_demo.mov" controls width="900">
-  </video>
-</div>
+<p align="center">
+  <a href="https://play.unity.com/en/games/e70f54fe-35de-4528-a554-ab68fca23e9f/space-explorer-galaxy-journey">
+    <img src="https://img.shields.io/badge/Play%20Now-Unity%20Play-blueviolet?style=for-the-badge&logo=unity&logoColor=white" alt="Play on Unity">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://play.unity.com/en/games/e70f54fe-35de-4528-a554-ab68fca23e9f/space-explorer-galaxy-journey">
+    🚀 Play Space Explorer: Galaxy Journey on Unity Play
+  </a>
+</p>
 
 ---
 
@@ -62,7 +69,6 @@
 
 ## 👨‍💻 Author Info
 * **Name:** Phạm Hồng Phúc
-* **Student ID:** QE190133
 * **Class:** SE19B.NET_PRU213
 * **Institution:** FPT University
 
